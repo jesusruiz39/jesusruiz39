@@ -35,8 +35,10 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-david-ruiz-garc%C3%ADa-344431276/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al2223072224@azc.uam.mx)
 
+<!--  
 <div align="Center">
   
   ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) 
   
 </div>
+ -->
